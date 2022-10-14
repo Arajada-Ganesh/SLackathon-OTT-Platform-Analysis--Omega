@@ -8,7 +8,8 @@ Netflix, Amazon Prime Video, Hotstar, Hulu etc. so, the user should not toggle b
 Secondly , we run algorithm, videos and series will be highlighted each platform according to the user choice. Moreover user can avail services on 
 prepaid basis like hourly, daily, monthly, quarterly, and yearly as per user choice similar like mobile prepaid 
 
-![image](https://user-images.githubusercontent.com/115209820/195906986-b55b6208-8f4b-46a5-998a-e8ea2032b8bc.png)
+![first rent o flex](https://user-images.githubusercontent.com/115209820/195908020-7a603db4-5386-405b-a5c1-72fe8d1328b2.jpg)
+
 
 
 ## #How can technology help?
@@ -24,4 +25,4 @@ Integration.
 
 ## Architecture 
 
-![image](https://user-images.githubusercontent.com/115209820/195907361-e412ba62-4823-40ac-b7e4-c8f53090ce95.png)
+![rent o flex](https://user-images.githubusercontent.com/115209820/195908115-4be9bc22-f1f1-45a2-86e8-453a6cabc074.jpg)
